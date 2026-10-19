@@ -20,7 +20,7 @@ This guide provides common troubleshooting steps for wireless connectivity issue
 
 ## Known Issues
 
-No issues currently documented.
+The cable is Broken.
 
 ## Escalation
 
