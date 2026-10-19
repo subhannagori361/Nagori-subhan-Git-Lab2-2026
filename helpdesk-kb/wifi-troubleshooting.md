@@ -19,8 +19,7 @@ This guide provides common troubleshooting steps for wireless connectivity issue
 5. Attempt to reconnect.
 
 ## Known Issues
-
-No issues currently documented.
+The Cable is broken .
 
 ## Escalation
 
